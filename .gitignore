@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/gridlock.sqlite3
+.DS_Store
+.env

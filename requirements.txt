@@ -1,0 +1,9 @@
+streamlit
+folium
+streamlit-folium
+shapely
+pyproj
+pandas
+google-genai
+SQLAlchemy
+psycopg[binary]

@@ -1,0 +1,12 @@
+id,utility,name,kind,voltage_kv,start_year,end_year,geometry_wkt
+DESC-01,DESC,Jasper - Okatie 230 kV line (placeholder),line,230,2027,2029,"LINESTRING (-81.02 32.43, -80.92 32.31)"
+DESC-02,DESC,Bluffton substation upgrade (placeholder),substation,115,2028,2028,POINT (-80.86 32.24)
+DESC-03,DESC,Urquhart - Graniteville 115 kV rebuild (placeholder),line,115,2026,2028,"LINESTRING (-81.90 33.42, -81.81 33.56)"
+DESC-04,DESC,Canadys - Charleston 230 kV line (placeholder),line,230,2029,2031,"LINESTRING (-80.62 33.05, -80.05 32.85)"
+DESC-05,DESC,Lake Murray substation (placeholder),substation,115,2027,2027,POINT (-81.22 34.05)
+DESC-06,DESC,Stevens Creek hydro interconnect (placeholder),substation,115,2028,2029,POINT (-82.05 33.56)
+GPC-01,GPC,Plant McIntosh expansion interconnect (placeholder),line,230,2027,2029,"LINESTRING (-81.17 32.36, -81.10 32.20)"
+GPC-02,GPC,Thomson - Vogtle 500 kV line (placeholder),line,500,2026,2029,"LINESTRING (-82.50 33.47, -81.76 33.14)"
+GPC-03,GPC,Port Wentworth 115 kV tap (placeholder),line,115,2028,2030,"LINESTRING (-81.16 32.15, -81.00 32.40)"
+GPC-04,GPC,Atlanta metro substation (placeholder),substation,230,2028,2028,POINT (-84.39 33.75)
+GPC-05,GPC,Macon 230 kV rebuild (placeholder),line,230,2027,2030,"LINESTRING (-83.63 32.84, -83.40 32.70)"
